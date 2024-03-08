@@ -1,0 +1,37 @@
+{
+    "name": "aatish",
+    "version": "0.0.1",
+    "description": "A type-safe WebSocket Sever inspired by Hono",
+    "main": "dist/cjs/index.js",
+    "type": "module",
+    "module": "dist/index.js",
+    "types": "dist/types/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "aatish",
+        "hono",
+        "server",
+        "node",
+        "nodejs",
+        "websocket",
+        "ws",
+        "uWebsocket",
+        "web",
+        "app",
+        "http",
+        "application",
+        "framework",
+        "bun",
+        "socket"
+    ],
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "author": "Anurag Kumar <anuragkumar19@github>",
+    "license": "MIT"
+}
